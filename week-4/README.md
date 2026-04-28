@@ -1,1 +1,1 @@
-# Nädal 4: SQL JOINs
+# Nädal 4: SQL Aggregation
