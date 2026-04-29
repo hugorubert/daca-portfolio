@@ -1,0 +1,1 @@
+Nädala kirjeldus + meeskonna link
