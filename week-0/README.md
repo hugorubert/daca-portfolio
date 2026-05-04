@@ -4,4 +4,4 @@ Grupitöös moodustasime meeskonnad, täitsime meeskonnaga "Meie UrbanStyle!" ü
 
 Esindasime meie meeskonna grupitööd kaasõpilastele ning eduka tulemuse.
 
-Meeskonna link:
+Meeskonna link: https://github.com/ele1sepp-gif/urbanstyle-marketing
