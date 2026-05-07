@@ -10,8 +10,8 @@
 - Tuleb võtta aega ning korrlikult läbi mõelda, et tulemus oleks parim
 
 ## Failid
-- `week1_[tabel]_exploration.sql` -- minu SQL päringud
-- `week1_results_screenshot.png` -- tulemuste pilt
+- `week1_results_screenshots` -- minu SQL päringud
+- week1_results_screenshots -- tulemuste pilt
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile]
