@@ -1,18 +1,18 @@
-│  MEESKOND: Marketing  |  NÄDAL: 2  |  TEGELANE: Toomas Kask                           │
-│                                                                                       │
-│  ANDMEKVALITEEDI KOONDRAPORT                                                          │
-│                                                                                       │
-│  PEAMISED LEIUD:                                                                      │
-│  1. [Müügiandmete Puhastamine]: leitud [X] probleemi — [lühikirjeldus]                │
-│  2. [Kliendiandmete Puhastamine]: leitud [Y] probleemi — [lühikirjeldus]              │
-│  3. [Tooteandmete Puhastamine]: leitud [1] probleem — [tootenimede duplikaadid]       │
-│                                                                                       │
-│                                                                                       │
-│  SUURIM ÜLLATUS:                                                                      │
-│  [1-2 lauset]                                                                         │
-│                                                                                       │
-│  SOOVITUS TOOMASELE:                                                                  │
-│  [1-2 lauset: prioriteedid, järgmised sammud]                                         │
-│                                                                                       │
-│  PUUDUVAD ANDMED:                                                                     │
-│  [1-2 lauset: mida me ei teadnud?] 
+MEESKOND: [UrbanStyle Marketing]  |  NÄDAL: 2  |  TEGELANE: Toomas Kask    
+                                                              
+ANDMEKVALITEEDI KOONDRAPORT                                 
+                                                              
+PEAMISED LEIUD:                                             
+1. [Sales data A]: leitud 5116 duplikaati, 1487 tundmatut klienti, 8    tulevikku suunatud kuupäeva      
+2. [Customer data B]: leitud 128 e-maili duplikaati,380 puuduvat e-maili      
+3. [Product data C]: leitud 12 — duplikaatset tootenime      
+      
+                                                              
+SUURIM ÜLLATUS:                                             
+Klientide tabelis telefoni- ja nimeandmed olid oodatust palju puhtamad.   Müügiandmetes 5116 korduvat sale-id                                                
+                                                              
+SOOVITUS TOOMASELE:                                         
+Järgmise sammuna tuleks eemaldada duplikaadid ja puhastada andmed.               
+                                                              
+PUUDUVAD ANDMED:                                            
+Ei teadnud, et puuduvad Customer-id on külaliskliendid.    
