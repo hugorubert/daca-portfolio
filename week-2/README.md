@@ -13,4 +13,4 @@
 - week2_products_cleaning.sql -- minu SQL päringud
 
 ## Meeskonna töö
-- tulekul
+- https://docs.google.com/presentation/d/1BcnNsggshzlO7VPdt3HL2pVNQ6fUf51dU6TCUTvWZsI/edit?slide=id.g3e18c6c8996_2_75#slide=id.g3e18c6c8996_2_75
