@@ -10,7 +10,7 @@
 - 
 
 ## Failid
-- 
+- week3[kadunud-kliendid]joins.sql
 
 ## Meeskonna töö
 - 
