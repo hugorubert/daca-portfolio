@@ -1,21 +1,26 @@
-MEESKOND: [UrbanStyle Marketing]  |  NÄDAL: 3  |  TEGELANE: Toomas Kask, Anna Mets    
-                                                              
-ANDMEKVALITEEDI KOONDRAPORT                                 
-                                                              
-PEAMISED LEIUD:                                             
-1. [Müük + kliendid A]:    
-2. [Kliendid ilma ostudeta B]: Urbanstyle.ltd kliendi baasis on 3150 klienti, millest on 2551 (81%) aktiivsed kliendid ning 599 (19%) kadunud kliendid.   
-3. [Tooted + inventuur C]:     
-      
-                                                              
-SUURIM ÜLLATUS:                                             
-Suurim osa kadunud kliente jaotub ühte aja vahemikku, kas tegemist võib olla ebaõnnestunud kampaaniaga?                                              
-                                                              
-SOOVITUS TOOMASELE:                                         
-Klientide ostu aktiivsust tuleks suurendada näiteks “win-back” kampaaniaga. E-kirja või sõnumi teel pakkuda kadunud klientidele, kas esimese ostu soodustust 
-või muud selge väärtusega pakkumist. Võib olla linnapõhine kampaania, kuna suurim hulk kadunud kliente asub Tallinnas ja Tartus. 
-Lisaks võiks uurida, miks just kadunud klientide registreerimine koondub 2024. aasta lõpu ja 2025. aasta algusesse.
-          
-                                                              
-PUUDUVAD ANDMED:                                            
+Meeskond UrbanStyle Marketing — Nädal 3 JOIN-analüüs
+
+
+1. Peamised leiud (3 punkti — üks igalt rollilt)
+12 toodet, mida kunagi ei ole müüdud.
+599 kadunud klienti.
+Tallinn on UrbanStyle’i tugevaim müügipiirkond ning suur osa käibest tuleb lojaalsetelt ja suure kulutusega klientidelt.
+Füüsilised poed, eriti Tallinnas, teenivad oluliselt rohkem käivet kui online-kanal.  
+
+2. Suurim üllatus
+Laos on 10 toodet, mis on miinusmärgiga.
+Suurem hulk kadunuid kliente registreerusid 2024. Aasta lõpul ja 2025. aasta alguses.
+Ainult 29,91% klientidest kulutab üle keskmise, kuid just nemad mõjutavad ettevõtte käivet kõige rohkem. 
+Kuigi e-poe müük on väiksem, toimub seal siiski märkimisväärselt palju oste. 
+
+3. Soovitus Annale
+Keskenduda vähem müüdud kaubakategooriatele: Aksessuaarid.
+Muuta kadunud kliendid aktiivseks “win-back” uue kampaaniaga.
+UrbanStyle peaks keskenduma lojaalsete VIP-klientide hoidmisele läbi personaalse turunduse ja lojaalsusprogrammide. 
+UrbanStyle peaks jätkama investeerimist Tallinna füüsilistesse poodidesse ning samal ajal arendama online-turundust väiksemates linnades 
+
+4. Puuduvad andmed
+Puuduvad andmed tagastatud kaupade kohta.
+Online-müük ei olnud seotud konkreetsete füüsiliste poodidega, mistõttu ei saanud kanalite võrdlust linnade lõikes täielikult analüüsida. 
+                                     
    
