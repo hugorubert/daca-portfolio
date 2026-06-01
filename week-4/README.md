@@ -11,7 +11,7 @@
 - Kuidas struktureerida keerulisi päringuid CTE-de ja window function'itega
 
 ## Failid
-- 
+- week4[müügi_koondandmed]aggregation.sql
 
 ## Meeskonna töö
 - https://docs.google.com/presentation/d/13s3JPCfBR9_IiEsRQUb8sc7okAs09u4Pq71ZO_vHQQA/edit?usp=sharing
