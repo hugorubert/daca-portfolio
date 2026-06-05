@@ -15,7 +15,9 @@
 
 ## Failid
 - sql_päringud.sql
-- individual_dashboard.md
+- individual_operation_dashboard.png
+- investor_dashboard.png
+- investor_dashboard_report.md
 
 ## Meeskonna töö
 - https://docs.google.com/presentation/d/13s3JPCfBR9_IiEsRQUb8sc7okAs09u4Pq71ZO_vHQQA/edit?usp=sharing
