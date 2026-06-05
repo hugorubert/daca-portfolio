@@ -14,8 +14,8 @@
 - Kasutasin Perplexity, et aru saada paremini Power BI kasutamisest ning vea koodidest
 
 ## Failid
-- week4[müügi_koondandmed]aggregation.sql
-- week4-sql-aggregation-report.md
+- sql_päringud.sql
+- individual_dashboard.md
 
 ## Meeskonna töö
 - https://docs.google.com/presentation/d/13s3JPCfBR9_IiEsRQUb8sc7okAs09u4Pq71ZO_vHQQA/edit?usp=sharing
