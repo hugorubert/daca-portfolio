@@ -18,7 +18,7 @@ käsitlesin NULL väärtusi, parsisin kuupäevad ja eemaldasin outlier'id
 - Kasutasin Perplexity, et kontrollida koodi python pandas ning seletada lahti koodid võrreldes SQL-iga.
 
 ## Failid
-
+- week7_rfm_[data_loading_+_data_cleaning].ipynb
 
 ## Meeskonna töö
 - https://docs.google.com/presentation/d/1CZDkJQtLjBZfta96Us-zmRCxgM44lmzfpXJE0tmJcXA/edit?usp=sharing
