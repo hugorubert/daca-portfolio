@@ -1,4 +1,4 @@
-# Nädal 6: Python Pandas — RFM kliendisegmenteerimine
+# Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
 ## Mida ma tegin
 - Laadisin UrbanStyle.ltd müügi- ja kliendiandmed Supabase'ist pandas
