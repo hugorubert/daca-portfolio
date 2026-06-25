@@ -19,6 +19,7 @@ käsitlesin NULL väärtusi, parsisin kuupäevad ja eemaldasin outlier'id
 
 ## Failid
 - week7_rfm_[data_loading_+_data_cleaning].ipynb
+- rfm_analysis_week7.ipynb
 
 ## Meeskonna töö
 - https://docs.google.com/presentation/d/1CZDkJQtLjBZfta96Us-zmRCxgM44lmzfpXJE0tmJcXA/edit?usp=sharing
