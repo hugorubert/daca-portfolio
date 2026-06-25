@@ -1,9 +1,10 @@
-# Nädal 2: SQL JOINs -- UrbanStyle'i 
+# Nädal 3: SQL JOINs -- UrbanStyle'i 
 
-## Mida ma tegin
-- Uurisin kliendi baasist "kadunud" kliente 
-- Leidsin, et baasis on 599 kadunud klienti
-- Osalesin meeskonna andmemaastiku koostamisel
+## Mida ma tegin [ROLL B - Kliendid ilma ostudeta (LEFT JOIN + NULL)]
+- Otsisin kliendid, kellel pole ühtegi ostu
+- Analüüsisin kadunud kliente linnade kaupa
+- Uurisin registreerimise kuupäeva
+- Võrdlesin kadunud vs aktiivsete klientide arvu
 
 ## Peamised õpid
 - Kuidas ühendada kahte tabelit INNER JOIN abil, kasutades ON klauslit ja tabeli aliaseid
