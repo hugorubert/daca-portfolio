@@ -1,6 +1,6 @@
 # Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
-## Mida ma tegin
+## Mida ma tegin [ROLL A - Andmete laadimine]
 - Laadisin UrbanStyle.ltd müügi- ja kliendiandmed Supabase'ist pandas
 DataFrame'i
 - Kontrollisin andmete struktuuri ja kvaliteeti
