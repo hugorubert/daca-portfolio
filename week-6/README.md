@@ -1,12 +1,11 @@
 # Nädal 6: Visualiseerimise andmed -- UrbanStyle'i 
 
-## Mida ma tegin
-- Interaktiivne dashboard (3-5 diagrammi Tartu andmetega)
-- Juhtide kokkuvõte (3-5 peamist järeldust)
-- Vähemalt 2 annotatsiooni diagrammidel
-- Viitejoon (eesmärk või keskmine)
-- Andmelugu: 3-4 lauset narratiivina
-
+## Mida ma tegin [ROLL B - Tartu Kaupluse Lugu]
+- Koostasin interaktiivse dashboard (3-5 diagrammi Tartu andmetega)
+- Koostasin juhtide kokkuvõtte (3-5 peamist järeldust)
+- Tegin vähemalt 2 annotatsiooni diagrammidele
+- Lisasin viitejoone (eesmärk või keskmine)
+- Koostasin andmeloo: 3-4 lauset narratiivina
 
 ## Peamised õpid
 - Lisasin diagrammidele annotatsioonid, mis selgitavad andmete tähendust
