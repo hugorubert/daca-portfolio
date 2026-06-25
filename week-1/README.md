@@ -1,13 +1,15 @@
 # Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
 
-## Mida ma tegin
+## Mida ma tegin [ROLL A - Müügiandmed]
 - Uurisin "sales" tabelit SQL päringutega
 - Leidsin, et Tallinna kõige väiksemad tehingud on negatiivsed ning 1487 real puudub kliendi info
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
-- Antud koodid tuleb korrlikult üle vaadata enne copy ja paste, et saaksid tulemuse, mis on vaja
-- Tuleb võtta aega ning korrlikult läbi mõelda, et tulemus oleks parim
+- Kirjutasin SELECT päringuid, mis valivad konkreetseid veerge UrbanStyle'i andmebaasist
+- Filtreerisin andmeid WHERE klausliga, kasutades võrdlusoperaatoreid ja loogikaoperaatoreid
+- Tuvastasin duplikaate ja loendad unikaalseid väärtusi DISTINCT ja COUNT abil
+
 
 ## Failid
 - week1_table_exploration.sql -- minu SQL päringud
