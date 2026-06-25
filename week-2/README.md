@@ -1,13 +1,15 @@
 # Nädal 2: SQL Cleaning -- UrbanStyle'i andmete puhastamine
 
-## Mida ma tegin
+## Mida ma tegin [ROLL C - Tooteandmete Puhastamine]
 - Tooteandmete eelpuhastusse anlüüsi "test" andmebaasi põhjal
 - Leidsin, et tooteandmetes on 12 tootenime duplikaatidega
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
-- Enne reaalset andmebaasi puhastust tuleb teha koopia, kus puhastust hakkad läbi viima, et ühtegi viga ei tekiks päris andmebaasi puhastamisel
-- duplikaatide leidmist, puuduvate andmete tuvastamist ning neile sobiv lahenduskäik
+- Tuvastasin ja eemaldasin duplikaate, kasutades GROUP BY + HAVING ja ROW_NUMBER()
+- Leidsin ja käsitlesin NULL väärtusi, kasutades IS NULL, COALESCE() ja NULLIF()
+- Puhastasin ja ühtlustasin andmevälju, kasutades CAST, TRIM(), UPPER()/LOWER() ja kuupäevafunktsioone
+
 
 ## Failid
 - week2_products_cleaning.sql -- minu SQL päringud
