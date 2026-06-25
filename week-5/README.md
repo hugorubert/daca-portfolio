@@ -1,6 +1,6 @@
 # Nädal 5: Visualiseerimise disain -- UrbanStyle'i 
 
-## Mida ma tegin
+## Mida ma tegin [ROLL C - Operations Dashboard]
 - Koostasin Operations Dashboard'i
 - Uurisin meie laoseisu, filtreerisin välja negatiivsed ning aegunud kogused lao seisust ning kajastasin seda diagrammidega
 - Uurisin müüki kaupluste lõikes ning kajastasin diagrammiga seda dashboard'il
