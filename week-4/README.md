@@ -1,9 +1,8 @@
 # Nädal 4: SQL Aggregation -- UrbanStyle'i 
 
-## Mida ma tegin
-- Uurisin müügi koondandmeid 
-- Leidsin, et müügitrend oli tõusul 2024 algusest kuni 2024 aasta lõpuni ning siis järjepidevalt kukkus, kuna andmebaasis on kuupäeva formaadi vead parandamata alates 2025 aastast.
-- Osalesin meeskonna andmemaastiku koostamisel
+## Mida ma tegin [ROLL A - Müügi koondandmed]
+- Koostasin müügistatistika raporti kuu- ja kategooriapõhised koondnumbrid ning kuised trendid
+- Kasutasin GROUP BY, HAVING ja CTE-d andmete pärimises
 
 ## Peamised õpid
 - Kuidas grupeerida andmeid äriloogika järgi, kasutades GROUP BY lauseid
