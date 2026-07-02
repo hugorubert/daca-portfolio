@@ -5,7 +5,7 @@
 - Leidsin, et Tallinna kõige väiksemad tehingud on negatiivsed ning 1487 real puudub kliendi info
 - Osalesin meeskonna andmemaastiku koostamisel
 
-## Peamised õpid
+## PPeamised õppetulemused
 - Kirjutasin SELECT päringuid, mis valivad konkreetseid veerge UrbanStyle'i andmebaasist
 - Filtreerisin andmeid WHERE klausliga, kasutades võrdlusoperaatoreid ja loogikaoperaatoreid
 - Tuvastasin duplikaate ja loendad unikaalseid väärtusi DISTINCT ja COUNT abil
