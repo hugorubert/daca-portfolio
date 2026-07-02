@@ -7,7 +7,7 @@
 - Lisasin viitejoone (eesmärk või keskmine)
 - Koostasin andmeloo: 3-4 lauset narratiivina
 
-## Peamised õpid
+## Peamised õppetulemused
 - Lisasin diagrammidele annotatsioonid, mis selgitavad andmete tähendust
 - Kirjutasin andmelugusid (data story), mis muudavad numbrid veenvaks narratiiviks
 - Kohandasin sama andmestiku esitlust vastavalt erinevatele sihtrühmadele (CEO, IT, turundus)
