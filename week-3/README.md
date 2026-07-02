@@ -6,7 +6,7 @@
 - Uurisin registreerimise kuupäeva
 - Võrdlesin kadunud vs aktiivsete klientide arvu
 
-## Peamised õpid
+## Peamised õppetulemused
 - Kuidas ühendada kahte tabelit INNER JOIN abil, kasutades ON klauslit ja tabeli aliaseid
 - Kuidas Tuvastada "kadunud" andmeid LEFT JOIN + WHERE IS NULL mustriga
 
