@@ -5,7 +5,7 @@
 - Uurisin meie laoseisu, filtreerisin välja negatiivsed ning aegunud kogused lao seisust ning kajastasin seda diagrammidega
 - Uurisin müüki kaupluste lõikes ning kajastasin diagrammiga seda dashboard'il
 
-## Peamised õpid
+## Peamised õppetulemused
 - Valida õige diagrammitüübi iga äriküsimuse jaoks (joon-, tulp-, sektor-, hajuvusdiagramm, KPI kaart)
 - Kavandada dashboard'i paigutuse, mis järgib visuaalset hierarhiat ja Z/F-mustrit
 - Planeerida filtrite ja interaktiivsuse loogika, mis muudab staatilise dashboard'i dünaamiliseks
