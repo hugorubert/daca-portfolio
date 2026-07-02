@@ -4,7 +4,7 @@
 - Koostasin müügistatistika raporti kuu- ja kategooriapõhised koondnumbrid ning kuised trendid
 - Kasutasin GROUP BY, HAVING ja CTE-d andmete pärimises
 
-## Peamised õpid
+## Peamised õppetulemused
 - Kuidas grupeerida andmeid äriloogika järgi, kasutades GROUP BY lauseid
 - Kuidas filtreerida grupeeritud tulemusi HAVING klausliga ja eristad seda WHERE-st
 - Kuidas struktureerida keerulisi päringuid CTE-de ja window function'itega
