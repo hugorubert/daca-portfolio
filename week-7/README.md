@@ -9,7 +9,7 @@ DataFrame'i
 käsitlesin NULL väärtusi, parsisin kuupäevad ja eemaldasin outlier'id
 - Koostasin puhastusraporti
 
-## Peamised õpid
+## Peamised õppetulemused
 - Laadisin ja uurisin andmeid pandas DataFrame'ina, kasutades read_csv(), head(), describe() ja info()
 - Filtreerisin, grupeerisin ja transformeerisin andmeid pandas'iga (boolean indexing, groupby, merge)
 - Tegin interaktiivseid visualiseerimisi Plotly Express'iga (px.bar, px.scatter, px.line)
