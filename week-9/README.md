@@ -14,4 +14,6 @@
 
 ## Failid
 - week-9_technical_interviewer.md
+- cv_screening_juhend.md
+- cv_screening_juhend_slide.pdf
 
