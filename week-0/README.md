@@ -15,7 +15,7 @@
 - setup screenshot(1).png
 - setup screenshot(2).png
 - setup screenshot(3).png
-- week-0
+- team_summary.md
 
 ## Meeskonnatöö
 Link: https://github.com/ele1sepp-gif/urbanstyle-marketing
