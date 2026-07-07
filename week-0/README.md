@@ -1,7 +1,18 @@
-Nädala jooksul mõistsin, miks andmeanalüütik vajab andmebaasi, versioonihaldust ja arenduskeskkonda. Seadistasin Supabase projekti, GitHubi repositooriumi ning VS Code’i / Power BI. Lisaks tegin oma esimese „Hello, UrbanStyle!“ vertikaalse lahenduse, kus andmed on pilves, kood GitHubis ja tulemus veebis.
+# Nädal 0: Tööriistade seadistamine
 
-Grupitöös moodustasime meeskonnad, täitsime meeskonnaga "Meie UrbanStyle!" ühisülesannet ning jäädvustasime meie tööst kokkuvõtte.
+## Mida ma tegin
+- Seadistasin Supabase andmebaasi projekti UrbanStyle'i andmete jaoks
+- Lõin GitHubi repositooriumi versioonihalduseks
+- Seadistasin VS Code’i ja Power BI arenduskeskkonnana
+- Tegin oma esimese “Hello, UrbanStyle!” vertikaalse lahenduse: andmed pilves, kood GitHubis, tulemus veebis
 
-Esindasime meie meeskonna grupitööd kaasõpilastele ning eduka tulemuse.
+## Peamised õppetulemused
+- Mõistsin, miks andmeanalüütik vajab korraga andmebaasi, versioonihaldust ja arenduskeskkonda
+- Õppisin ühendama Supabase’i, GitHubi ja Power BI’d üheks töövoogs
+- Sain kogemuse lihtsa, aga läbiva “end-to-end” lahenduse loomisel (andmed → kood → visuaalne tulemus)
 
-Meeskonna link: https://github.com/ele1sepp-gif/urbanstyle-marketing
+## Failid
+- 
+
+## Meeskonnatöö
+Link: https://github.com/ele1sepp-gif/urbanstyle-marketing
