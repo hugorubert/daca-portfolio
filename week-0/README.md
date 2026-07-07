@@ -12,7 +12,10 @@
 - Sain kogemuse lihtsa, aga läbiva “end-to-end” lahenduse loomisel (andmed → kood → visuaalne tulemus)
 
 ## Failid
-- 
+- setup screenshot(1).png
+- setup screenshot(2).png
+- setup screenshot(3).png
+- week-0
 
 ## Meeskonnatöö
 Link: https://github.com/ele1sepp-gif/urbanstyle-marketing
