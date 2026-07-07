@@ -18,4 +18,4 @@
 - team_summary.md
 
 ## Meeskonnatöö
-Link: https://github.com/ele1sepp-gif/urbanstyle-marketing
+- https://github.com/ele1sepp-gif/urbanstyle-marketing
