@@ -1,7 +1,7 @@
 # Nädal 2: SQL Cleaning -- UrbanStyle'i andmete puhastamine
 
 ## Mida ma tegin [ROLL C - Tooteandmete Puhastamine]
-- Tooteandmete eelpuhastusse anlüüsi "test" andmebaasi põhjal
+- Tooteandmete eelpuhastamine "test" andmebaasi põhjal
 - Leidsin, et tooteandmetes on 12 tootenime duplikaatidega
 - Osalesin meeskonna andmemaastiku koostamisel
 
